@@ -1,0 +1,12 @@
+{
+  "name": "turret-blacklist",
+  "version": "0.1.0",
+  "title": "Turret Blacklist - Invert Target Priorities",
+  "author": "sarah",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds an 'Invert Targets' button to turret GUIs to flip the target priority list, making turrets target everything EXCEPT what is listed.",
+  "factorio_version": "2.0",
+  "dependencies": ["space-age"],
+  "tags": ["turrets", "quality of life", "gameplay"]
+}
